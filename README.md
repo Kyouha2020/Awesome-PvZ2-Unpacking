@@ -1,6 +1,6 @@
 # Awesome-PvZ2-Unpacking
 
-## Tutorials (Technical articles)
+## Decoding
 * [OBB & RSB](tutorials/OBB&RSB.md)
 * [PTX](tutorials/PTX.md)
 * [POPFX](tutorials/POPFX.md)
