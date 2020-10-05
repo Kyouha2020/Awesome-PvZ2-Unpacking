@@ -4,7 +4,7 @@
 * [OBB & RSB](tutorials/OBB&RSB.md)
 * [PTX](tutorials/PTX.md)
 * [POPFX](tutorials/POPFX.md)
-* [RTON](TUTORIALS/RTON.md)
+* [RTON](tutorials/RTON.md)
 * [PAM](tutorials/PAM.md)
 * [BNK](tutorials/BNK.md)
 * [WEM](tutorials/WEM.md)
